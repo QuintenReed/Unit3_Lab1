@@ -1,0 +1,2 @@
+1. Recursion also backs out, but while loops don't
+2. If you need it to back out, you can't really do that with while loops in most cases
